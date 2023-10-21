@@ -1,0 +1,1 @@
+download data for embeddings layer at: https://www.kaggle.com/datasets/danielwillgeorge/glove6b100dtxt
